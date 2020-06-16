@@ -16,8 +16,8 @@ def hopper
       }
     }
     
-programmer_hash.shift
-p grace_hopper
+big_g = programmer_hash.shift
+puts big_g[:grace_hopper]
 end
 
 def alan_kay_is_known_for
