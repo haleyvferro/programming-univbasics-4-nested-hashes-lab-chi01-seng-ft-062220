@@ -16,7 +16,12 @@ def hopper
       }
     }
     
-puts 
+     counter = 0
+ 
+  while counter < array.length do
+    puts array[counter]
+    counter += 1
+  end
 end
 
 def alan_kay_is_known_for
