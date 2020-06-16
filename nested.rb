@@ -15,7 +15,7 @@ def hopper
         :languages => ["C"]
       }
     }
-programmer_hash.shift 
+programmer_hash.pop(2)
 p programmer_hash
 end
 hopper
