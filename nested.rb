@@ -17,6 +17,8 @@ def hopper
     }
     def shift_hop
       programmer_hash.shift
+    end
+    shift_hop
 end
 
 
