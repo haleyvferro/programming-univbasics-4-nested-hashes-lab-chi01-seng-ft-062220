@@ -16,9 +16,9 @@ def hopper
       }
     }
 programmer_hash.shift 
-puts programmer_hash
+p programmer_hash
 end
-
+hopper
 
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
