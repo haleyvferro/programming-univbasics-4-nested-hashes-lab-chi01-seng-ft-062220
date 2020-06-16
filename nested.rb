@@ -16,7 +16,7 @@ def hopper
       }
     }
 programmer_hash.shift 
-puts grace_hopper
+puts programmer_hash
 end
 
 
