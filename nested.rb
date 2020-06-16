@@ -87,7 +87,6 @@ programmer_hash.unshift(
    :languages => ["LISP", "C"]
   }
   )
-  p programmer_hash
 end
 
 def changing_alan
