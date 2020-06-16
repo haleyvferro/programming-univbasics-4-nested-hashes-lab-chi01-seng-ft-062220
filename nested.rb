@@ -16,7 +16,7 @@ def hopper
       }
     }
     
-big_g = programmer_hash.shift
+programmer_hash.shift
 end
 
 def alan_kay_is_known_for
