@@ -16,7 +16,7 @@ def hopper
       }
     }
     
-grace_hopper = programmer_hash.shift
+programmer_hash.shift
 p 
 end
 
